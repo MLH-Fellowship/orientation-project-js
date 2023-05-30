@@ -1,5 +1,5 @@
 body {
-  background-color: rgb(29, 83, 159)
+  background-color: rgb(29, 83, 159);
 }
 
 .App {
@@ -15,7 +15,7 @@ body {
   border-radius: 15px;
   box-shadow: 0 3px 6px rgba(0, 0, 0, 0.16), 0 3px 6px rgba(0, 0, 0, 0.23);
   margin-bottom: 20px;
-  color: black
+  color: black;
 }
 
 .resumeSection p {
